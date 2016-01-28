@@ -1,0 +1,28 @@
+	body	{
+		font-family: Tahoma, Geneva, sans-serif;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: Impact, Charcoal, sans-serif;
+		color:#225;
+	}
+
+	#title {
+		font-size: 1em; 
+		color: red;
+		text-align: center;
+	}
+
+	.restaurant-box {
+		background-color: blue;
+	}
+
+	.restaurant-box a h2 {
+		color: white;
+		text-decoration: none;
+
+	}
+
+	.restaurant-box a:hover h2 {
+		color: #ccc;
+	}
